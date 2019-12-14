@@ -1,0 +1,6 @@
+D:\Desktop\C#学习\TCP\_021_socket编程_TCP协议\_021_socket编程_TCP协议\bin\Debug\_021_socket编程_TCP协议.exe.config
+D:\Desktop\C#学习\TCP\_021_socket编程_TCP协议\_021_socket编程_TCP协议\obj\Debug\_021_socket编程_TCP协议.csprojResolveAssemblyReference.cache
+D:\Desktop\C#学习\TCP\_021_socket编程_TCP协议\_021_socket编程_TCP协议\bin\Debug\_021_socket编程_TCP协议.exe
+D:\Desktop\C#学习\TCP\_021_socket编程_TCP协议\_021_socket编程_TCP协议\bin\Debug\_021_socket编程_TCP协议.pdb
+D:\Desktop\C#学习\TCP\_021_socket编程_TCP协议\_021_socket编程_TCP协议\obj\Debug\_021_socket编程_TCP协议.exe
+D:\Desktop\C#学习\TCP\_021_socket编程_TCP协议\_021_socket编程_TCP协议\obj\Debug\_021_socket编程_TCP协议.pdb
